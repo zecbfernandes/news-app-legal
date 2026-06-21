@@ -9,4 +9,4 @@ Static website for the News App legal pages.
 
 ## Usage
 
-Open `/home/runner/work/news-app-legal/news-app-legal/index.html` in a browser.
+From the repository root, open `index.html` in a browser.

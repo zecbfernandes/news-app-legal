@@ -5,6 +5,7 @@ Static website for the News App legal pages.
 ## Contents
 
 - `/index.html` — Privacy Policy and Terms of Service page
+- `/delete-account.html` — Delete Account request page
 - `/styles.css` — page styling
 
 ## Usage
